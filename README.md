@@ -1,11 +1,10 @@
 # Kitchen Appliance Selection - Stove and Chimney
 Finding the best stove and chimney for the kitchen post-renovation.
 
-
-## Problem Statement:
+### Problem Statement:
 - After a recent renovation of the kitchen, there came a problem of installing a new stove and chimney. Each store were selling products from the companies which sponsored them and the recommendations were highly subjective. So choosing the right product for the kitchen seemed difficult.
 
-## Solution:
+### Solution:
 - To get an objective opinion of the products, all stoves and chimneys data was scraped from Amazon for each of the three brands and compared against each other.
 
 ### Tools Used:
